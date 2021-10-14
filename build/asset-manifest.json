@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/YogaaDev/project1/static/js/main.c2b9e874.chunk.js",
+    "main.js.map": "/YogaaDev/project1/static/js/main.c2b9e874.chunk.js.map",
+    "runtime-main.js": "/YogaaDev/project1/static/js/runtime-main.7070f70e.js",
+    "runtime-main.js.map": "/YogaaDev/project1/static/js/runtime-main.7070f70e.js.map",
+    "static/css/2.a95be28f.chunk.css": "/YogaaDev/project1/static/css/2.a95be28f.chunk.css",
+    "static/js/2.58d79439.chunk.js": "/YogaaDev/project1/static/js/2.58d79439.chunk.js",
+    "static/js/2.58d79439.chunk.js.map": "/YogaaDev/project1/static/js/2.58d79439.chunk.js.map",
+    "static/js/3.928f65eb.chunk.js": "/YogaaDev/project1/static/js/3.928f65eb.chunk.js",
+    "static/js/3.928f65eb.chunk.js.map": "/YogaaDev/project1/static/js/3.928f65eb.chunk.js.map",
+    "static/js/4.47b0ac87.chunk.js": "/YogaaDev/project1/static/js/4.47b0ac87.chunk.js",
+    "static/js/4.47b0ac87.chunk.js.map": "/YogaaDev/project1/static/js/4.47b0ac87.chunk.js.map",
+    "static/js/5.5b03df34.chunk.js": "/YogaaDev/project1/static/js/5.5b03df34.chunk.js",
+    "static/js/5.5b03df34.chunk.js.map": "/YogaaDev/project1/static/js/5.5b03df34.chunk.js.map",
+    "static/js/6.0ba9ecb3.chunk.js": "/YogaaDev/project1/static/js/6.0ba9ecb3.chunk.js",
+    "static/js/6.0ba9ecb3.chunk.js.map": "/YogaaDev/project1/static/js/6.0ba9ecb3.chunk.js.map",
+    "static/js/7.682c4d02.chunk.js": "/YogaaDev/project1/static/js/7.682c4d02.chunk.js",
+    "static/js/7.682c4d02.chunk.js.map": "/YogaaDev/project1/static/js/7.682c4d02.chunk.js.map",
+    "static/js/8.27bbf116.chunk.js": "/YogaaDev/project1/static/js/8.27bbf116.chunk.js",
+    "static/js/8.27bbf116.chunk.js.map": "/YogaaDev/project1/static/js/8.27bbf116.chunk.js.map",
+    "static/js/9.e904f71b.chunk.js": "/YogaaDev/project1/static/js/9.e904f71b.chunk.js",
+    "static/js/9.e904f71b.chunk.js.map": "/YogaaDev/project1/static/js/9.e904f71b.chunk.js.map",
+    "index.html": "/YogaaDev/project1/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/YogaaDev/project1/static/css/2.a95be28f.chunk.css.map",
+    "static/js/2.58d79439.chunk.js.LICENSE.txt": "/YogaaDev/project1/static/js/2.58d79439.chunk.js.LICENSE.txt",
+    "static/media/Join.450356e8.png": "/YogaaDev/project1/static/media/Join.450356e8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7070f70e.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.58d79439.chunk.js",
+    "static/js/main.c2b9e874.chunk.js"
+  ]
+}
